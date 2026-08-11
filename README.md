@@ -3,7 +3,7 @@
 🚀 **Estudante de Ciência da Computação**  
 🇧🇷 Brazil
 
-Atualmente busco adquirir experiência por meio de **projetos práticos** como **desenvolvimento de API's** e seu consumo para **aplicações web envolvendo** e **automações para resoluções de problemas pessoas**
+Atualmente busco adquirir experiência por meio de **projetos práticos** como **desenvolvimento de API's** e seu consumo para **aplicações web envolvendo estas** e **automações para resoluções de problemas pessoas**
 ---
 
 ## 🌐 Where to find me
