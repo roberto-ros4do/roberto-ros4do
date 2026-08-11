@@ -44,12 +44,3 @@ Atualmente busco adquirir experiência por meio de **projetos práticos** como *
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=roberto-ros4do&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-ros4do&layout=compact&theme=tokyonight" />
-</p>
-
----
