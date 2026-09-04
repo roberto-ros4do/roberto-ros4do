@@ -32,10 +32,10 @@ Meu objetivo é evoluir constantemente como desenvolvedor, construindo projetos 
   <a href="https://linkedin.com/in/ros4do/" target="_blanck">
     <img src="https://img.shields.io/badge/LinkedIn-Roberto Rosado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ros4do_" target="_blanck>
+  <a href="https://instagram.com/ros4do_" target="_blanck">
     <img src="https://img.shields.io/badge/Instagram-@ROS4DO_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="http://wa.me/5561991610587?text=Ol%C3%A1,+gostaria+de+saber+mais+sobre+seu+trabalho!" target="_blanck>
+  <a href="http://wa.me/5561991610587?text=Ol%C3%A1,+gostaria+de+saber+mais+sobre+seu+trabalho!" target="_blanck">
     <img src="https://img.shields.io/badge/Whatsapp-Roberto Rosado-008000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
