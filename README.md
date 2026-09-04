@@ -35,8 +35,8 @@ Meu objetivo é evoluir constantemente como desenvolvedor, construindo projetos 
   <a href="https://instagram.com/ros4do_">
     <img src="https://img.shields.io/badge/Instagram-@ROS4DO_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ros4do_">
-    <img src="https://img.shields.io/badge/Whatsapp-Roberto Rosado-E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="http://wa.me/5561991610587?text=Ol%C3%A1,+gostaria+de+saber+mais+sobre+seu+trabalho!">
+    <img src="https://img.shields.io/badge/Whatsapp-Roberto Rosado-008000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
