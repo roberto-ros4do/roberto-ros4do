@@ -3,7 +3,27 @@
 🚀 **Estudante de Ciência da Computação**  
 🇧🇷 Brazil
 
-Atualmente busco adquirir experiência por meio de **projetos práticos** como **desenvolvimento de API's** e seu consumo para **aplicações web envolvendo estas** e **automações para resoluções de problemas pessoas**
+## Sobre mim
+
+Estudante de Ciência da Computação e desenvolvedor em formação, atualmente atuo como Desenvolvedor em uma startup, onde trabalho no desenvolvimento e manutenção de sistemas utilizando PHP e MySQL. Paralelamente, desenvolvo meus próprios projetos, com foco em Python, APIs, bancos de dados e arquitetura de sistemas.
+
+Entre meus projetos, venho desenvolvendo um **sistema de planejamento de recursos empresariais (ERP)**, inicialmente construído em Python e SQLite e atualmente em processo de evolução para uma arquitetura baseada em **API**, com autenticação, controle de permissões, histórico de operações, gerenciamento de produtos, movimentações e relatórios.
+
+Também desenvolvo projetos menores para colocar em prática conceitos de **lógica de programação, automação, desenvolvimento web e integração entre frontend e backend**.
+
+Meu objetivo é evoluir constantemente como desenvolvedor, construindo projetos cada vez mais completos e aprendendo a tomar decisões de arquitetura, segurança, organização e manutenção de código.
+
+### Atualmente estudando
+
+* Python e Programação Orientada a Objetos
+* Desenvolvimento de APIs
+* SQL e bancos de dados
+* Backend e arquitetura de sistemas
+* HTML, CSS, JavaScript e Bootstrap
+* Git e GitHub
+* Boas práticas de desenvolvimento e segurança
+* Cibersegurança
+
 ---
 
 ## 🌐 Where to find me
@@ -14,6 +34,9 @@ Atualmente busco adquirir experiência por meio de **projetos práticos** como *
   </a>
   <a href="https://instagram.com/ros4do_">
     <img src="https://img.shields.io/badge/Instagram-@ROS4DO_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ros4do_">
+    <img src="https://img.shields.io/badge/Whatsapp-Roberto Rosado-E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
