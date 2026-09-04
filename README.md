@@ -9,7 +9,7 @@ Atualmente busco adquirir experiência por meio de **projetos práticos** como *
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/roberto-ros4do">
+  <a href="https://linkedin.com/in/ros4do/">
     <img src="https://img.shields.io/badge/LinkedIn-Roberto Rosado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/ros4do_">
