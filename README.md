@@ -5,13 +5,13 @@
 
 ## Sobre mim
 
-Estudante de Ciência da Computação e desenvolvedor em formação, atualmente atuo como Desenvolvedor em uma startup, onde trabalho no desenvolvimento e manutenção de sistemas utilizando PHP e MySQL. Paralelamente, desenvolvo meus próprios projetos, com foco em Python, APIs, bancos de dados e arquitetura de sistemas.
+Sou estudante de Ciência da Computação e atualmente atuo como Desenvolvedor em uma startup, onde trabalho no desenvolvimento e manutenção de sistemas utilizando PHP e MySQL. Paralelamente, mantenho projetos próprios com foco em Python, APIs, bancos de dados e arquitetura de sistemas.
 
-Entre meus projetos, venho desenvolvendo um **sistema de planejamento de recursos empresariais (ERP)**, inicialmente construído em Python e SQLite e atualmente em processo de evolução para uma arquitetura baseada em **API**, com autenticação, controle de permissões, histórico de operações, gerenciamento de produtos, movimentações e relatórios.
+Entre meus principais projetos está o desenvolvimento de um sistema de planejamento de recursos empresariais (ERP), inicialmente construído em Python e SQLite e atualmente em processo de evolução para uma arquitetura baseada em API, com autenticação, controle de permissões, histórico de operações, gerenciamento de produtos, movimentações e relatórios.
 
-Também desenvolvo projetos menores para colocar em prática conceitos de **lógica de programação, automação, desenvolvimento web e integração entre frontend e backend**.
+Também utilizo projetos menores para colocar em prática conceitos de lógica de programação, automação, desenvolvimento web e integração entre frontend e backend.
 
-Meu objetivo é evoluir constantemente como desenvolvedor, construindo projetos cada vez mais completos e aprendendo a tomar decisões de arquitetura, segurança, organização e manutenção de código.
+Meu objetivo é evoluir constantemente como desenvolvedor, construindo projetos cada vez mais completos e aprimorando minha capacidade de tomar decisões relacionadas à arquitetura, segurança, organização e manutenção de código.
 
 ### Atualmente estudando
 
