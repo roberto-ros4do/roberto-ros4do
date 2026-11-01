@@ -1,6 +1,6 @@
 # Roberto Rosado
 
-🚀 **Estudante de Ciência da Computação**  
+🚀 **Desenvolvedor FullStack Python/PHP**  
 🇧🇷 Brazil
 
 ## Sobre mim
