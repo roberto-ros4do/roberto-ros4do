@@ -1,6 +1,6 @@
 # Roberto Rosado
 
-🚀 **Desenvolvedor FullStack Python/PHP**  
+🚀 **FullStack Software Engineer Python/PHP**  
 🇧🇷 Brazil
 
 ## Sobre mim
